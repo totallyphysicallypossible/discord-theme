@@ -7,6 +7,14 @@
 
 /* i dont know what any of this does */
 
+@import url(https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap);
+
+body,
+html {
+  text-rendering: optimizeLegibility !important;
+  font-family: "Rubik", sans-serif !important;
+}
+
 /* sidebar and chat */
 /* .sidebar_ded4b5, .chat__52833, .container_ca50b9 {
     margin: 7px !important;
@@ -132,6 +140,11 @@
     --background-mentioned-hover: #23212b57 !important;
     --background-floating: #2d2a3bde !important;
     --background-modifier-accent: #423f57 !important;
+    --scrollbar-thin-track: #221e33 !important;
+    --scrollbar-thin-thumb: #5a5475 !important;
+    --scrollbar-auto-track: #221e33 !important;
+    --scrollbar-auto-thumb: #5a5475 !important;
+    --text-normal: #e1dcf8 !important;
 }
 
 .avatarWrapper_ba5175 {
