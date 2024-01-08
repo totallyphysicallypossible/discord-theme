@@ -1,0 +1,139 @@
+/**
+ * @name why
+ * @author sele
+ * @description oh god make it stop
+ * @version 0.1
+ */
+
+/* i dont know what any of this does */
+
+/* sidebar and chat */
+/* .sidebar_ded4b5, .chat__52833, .container_ca50b9 {
+    margin: 7px !important;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    border: 2px solid var(--background-modifier-accent) !important;
+    border-radius: 20px !important;
+} */
+
+.chat__52833 {
+    margin: 7px !important;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    border: 2px solid var(--background-modifier-accent) !important;
+    border-radius: 20px !important;
+}
+
+.container_ca50b9 {
+    margin-bottom: 7px !important;
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+    margin-top: 2px !important;
+    border: 2px solid var(--background-modifier-accent) !important;
+    border-radius: 20px !important;
+    border-top-left-radius: 8px !important;
+    border-top-right-radius: 8px !important;
+}
+
+.container__590e2, .privateChannels__93473 {
+    margin-top: 7px !important;
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+    margin-bottom: 2px !important;
+    border: 2px solid var(--background-modifier-accent) !important;
+    border-radius: 20px !important;
+    border-bottom-left-radius: 8px !important;
+    border-bottom-right-radius: 8px !important;
+}
+
+.animatedContainer__341f6 {
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+}
+
+.panels__58331, .sidebar_ded4b5 {
+    background-color: #00000000 !important;
+}
+
+/* serverlist */
+.scroller__3d071.none__51a8f.scrollerBase_dc3aa9 {
+    margin: 5px !important;
+    border: 2px solid var(--background-modifier-accent) !important;
+    border-radius: 20px !important;
+}
+
+/* incredibly hacky fix for folders being screwed by new serverlist position */
+.wrapper__3af0b {
+    position: relative !important;
+    right: 5px !important;
+}
+
+/* server pill */
+.guildSeparator_dcb3cc {
+    position: relative !important;
+    right: 5px !important;
+}
+
+.expandedFolderBackground__1bec6 {
+    position: absolute !important;
+    left: 7px !important;
+}
+
+/* Search Bars */
+.searchBarComponent__22760, .searchBar_e0c60b {
+    border-radius: 8px !important;
+    text-align: center !important;
+}
+
+/* Channels */
+.link__95dc0, .interactive__776ee.interactive_a868bc {
+    border: 0px solid #90909040 !important;
+    border-radius: 20px !important;
+    margin: 0px !important;
+}
+
+/* what the fuck is this */
+.wrapper__7bcde {
+    margin-left: 0px !important;
+}
+
+.containerDefault__3187b {
+    margin-left: 8px !important;
+}
+
+/* Context Menu Border */
+.menu_dc52c6 {
+    border-radius: 15px !important;
+    backdrop-filter:blur(8px);
+}
+
+/* Context Menu Buttons */
+.item__183e8.labelContainer_bc2861.colorDefault__0b482, .member_aa4760.container__4f20e.clickable__17ccb {
+    border-radius: 10px !important;
+}
+
+.item_f9d377 {
+    right: 5px !important;
+}
+
+.button__4f306 {
+    position: relative !important;
+    border-radius: 50px !important;
+}
+
+/* primary is chat, secondary is channel list + member list, tertiary is server list + background */
+
+.theme-dark {
+    --background-primary: #2d2a3b !important;
+    --background-secondary: #2d2a3b !important;
+    --background-secondary-alt: #2d2a3b !important;
+    --background-tertiary: #12101b !important;
+    --background-mentioned: #6b658650 !important;
+    --background-mentioned-hover: #23212b57 !important;
+    --background-floating: #2d2a3bde !important;
+    --background-modifier-accent: #423f57 !important;
+}
+
+.avatarWrapper_ba5175 {
+    border-radius: 18px !important;
+}
