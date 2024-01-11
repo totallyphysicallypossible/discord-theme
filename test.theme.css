@@ -140,9 +140,9 @@ html {
     --background-mentioned-hover: #23212b57 !important;
     --background-floating: #2d2a3bde !important;
     --background-modifier-accent: #423f57 !important;
-    --scrollbar-thin-track: #221e33 !important;
+    --scrollbar-thin-track: #221e3300 !important;
     --scrollbar-thin-thumb: #5a5475 !important;
-    --scrollbar-auto-track: #221e33 !important;
+    --scrollbar-auto-track: #221e3300 !important;
     --scrollbar-auto-thumb: #5a5475 !important;
     --text-normal: #e1dcf8 !important;
 }
